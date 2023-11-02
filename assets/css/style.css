@@ -66,8 +66,16 @@ body {
   width: 200px;
 }
 .book-padding {
-  padding-left: 90px;
+  padding-right: 90px;
 }
 .padding-left{
   margin-left: 40px;
+}
+
+#book{
+  padding: 0px 100px;
+}
+
+#bookContainer {
+  height:
 }
